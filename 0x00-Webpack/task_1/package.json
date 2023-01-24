@@ -16,7 +16,6 @@
   },
   "dependencies": {
     "jquery": "^3.6.3",
-    "lodash": "^4.17.21",
-    "webpack": "^5.75.0"
+    "lodash": "^4.17.21"
   }
 }
